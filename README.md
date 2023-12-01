@@ -25,5 +25,3 @@ This Python project aims to assess the credibility of product reviews on Amazon 
 
 ## Disclaimer
 This project is meant for educational and research purposes. Please be aware of the legal and ethical implications of web scraping and adhere to the terms of service of the websites being scraped.
-
-Feel free to customize this README based on your specific implementation and add any relevant information or features you find necessary.
