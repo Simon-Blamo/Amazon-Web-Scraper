@@ -1,4 +1,4 @@
-# Amazon-Web-Scraper
+# Amazon Web Scraper
 This Python project aims to assess the credibility of product reviews on Amazon by analyzing reviewer profiles and estimating bias. The script utilizes Selenium for web scraping and is designed to evaluate the likelihood of biased reviews for a given product.
 
 ## Features
