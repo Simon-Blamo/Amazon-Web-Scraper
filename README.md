@@ -18,7 +18,7 @@ This Python project aims to assess the credibility of product reviews on Amazon 
 3. Run the Program:
 
    `python main.py`
-4. Follow On-screen Instructions:
+4. Follow On-screen Instructions.
    
   Choose to analyze the default product or enter a custom product URL.
   The script will output results, including biased users and overall statistics.
